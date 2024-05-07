@@ -11,3 +11,4 @@
 * [Порфирьевич](https://porfirevich.ru) - Дописування текстів (тільки на російській).
 * [CourseAI](https://courseai.co/) - Створення курсів за предметами.
 * [Gliglish](https://gliglish.com/free) - Тренування мов.
+* [lingolette](https://lingolette.com)- Тренування мов.
