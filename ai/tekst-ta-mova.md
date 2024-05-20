@@ -1,6 +1,7 @@
 # 🅰️ Текст та мова
 
 * [AI CHECK](https://contentatscale.ai/ai-content-detector) - Перевірка на ШІ.
+* [quillbot.com](https://quillbot.com/ai-content-detector) - AI check
 * [Perplaxity](https://www.perplexity.ai/search/) - Генерація тексту.
 * [Translaitor AI](https://www.deepl.com/translator) - Перекладач.
 * [Speechify](https://app.speechify.com/) - Озвучка текстів.
