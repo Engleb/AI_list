@@ -6,3 +6,4 @@
 * [Webcam Motion Capture](https://webcammotioncapture.info/beta.php) &#x20;
 * [supertone.ai](https://product.supertone.ai/shift) - можливо змінювати голос в реальному часі
 * [stylar.ai](http://stylar.ai/) - Контроль зображення
+* [geospy](https://geospy.ai) - Можливо дізнатися місце по фотографії
