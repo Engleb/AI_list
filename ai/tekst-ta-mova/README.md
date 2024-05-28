@@ -13,3 +13,4 @@
 * [CourseAI](https://courseai.co/) - Створення курсів за предметами.
 * [Gliglish](https://gliglish.com/free) - Тренування мов.
 * [lingolette](https://lingolette.com)- Тренування мов.
+* [delve](https://delve.a9.io/) - ШІ вікіпедія
