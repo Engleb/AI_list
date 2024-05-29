@@ -7,3 +7,4 @@
 * [Online-Video-Cutter](https://online-video-cutter.com/ru/remove-logo) - Видалення водяних знаків з відео.
 * [Vocal Remover](https://vocalremover.org/) - Видалення вокалу з аудіо.
 * [Adobe Podcast Enhance](https://podcast.adobe.com/enhance) - Поліпшення якості аудіо для подкастів.
+* [kveeky](https://kveeky.com/) - Озвучка
