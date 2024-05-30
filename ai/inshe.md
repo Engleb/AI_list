@@ -7,3 +7,4 @@
 * [supertone.ai](https://product.supertone.ai/shift) - можливо змінювати голос в реальному часі
 * [stylar.ai](http://stylar.ai/) - Контроль зображення
 * [geospy](https://geospy.ai) - Можливо дізнатися місце по фотографії
+* [anichat](https://www.anichat.ai)    - Ai girlfriend free
