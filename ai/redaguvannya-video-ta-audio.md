@@ -8,3 +8,4 @@
 * [Vocal Remover](https://vocalremover.org/) - Видалення вокалу з аудіо.
 * [Adobe Podcast Enhance](https://podcast.adobe.com/enhance) - Поліпшення якості аудіо для подкастів.
 * [kveeky](https://kveeky.com/) - Озвучка
+* [elevenlabs](https://elevenlabs.io/app/sound-effects)  - Створення музики і ефектів, також озвучка і ще є плюшкі
